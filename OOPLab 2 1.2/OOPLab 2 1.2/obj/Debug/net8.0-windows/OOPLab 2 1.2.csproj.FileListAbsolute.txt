@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\OOPLab 2 1.2\OOPLab 2 1.2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\source\repos\OOPLab 2 1.2\OOPLab 2 1.2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\source\repos\OOPLab 2 1.2\OOPLab 2 1.2\obj\Debug\net8.0-windows\OOPLab 2 1.2_MarkupCompile.cache
+C:\Users\Admin\source\repos\OOPLab 2 1.2\OOPLab 2 1.2\obj\Debug\net8.0-windows\OOPLab 2 1.2_MarkupCompile.lref
+C:\Users\Admin\source\repos\OOPLab 2 1.2\OOPLab 2 1.2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\source\repos\OOPLab 2 1.2\OOPLab 2 1.2\obj\Debug\net8.0-windows\OOPLab 2 1.2.g.resources
+C:\Users\Admin\source\repos\OOPLab 2 1.2\OOPLab 2 1.2\obj\Debug\net8.0-windows\OOPLab 2 1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPLab 2 1.2\OOPLab 2 1.2\obj\Debug\net8.0-windows\OOPLab 2 1.2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPLab 2 1.2\OOPLab 2 1.2\obj\Debug\net8.0-windows\OOPLab 2 1.2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOPLab 2 1.2\OOPLab 2 1.2\obj\Debug\net8.0-windows\OOPLab 2 1.2.csproj.CoreCompileInputs.cache

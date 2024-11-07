@@ -1,0 +1,23 @@
+﻿<Window x:Class="QuadraticSolver.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Рівняння з x, y, z" Height="350" Width="300">
+    <Grid>
+        <!-- Поля для вводу значень x, y, z -->
+        <Label Content="x:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxX" HorizontalAlignment="Left" Margin="30,10,0,0" VerticalAlignment="Top" Width="100"/>
+
+        <Label Content="y:" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxY" HorizontalAlignment="Left" Margin="30,40,0,0" VerticalAlignment="Top" Width="100"/>
+
+        <Label Content="z:" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxZ" HorizontalAlignment="Left" Margin="30,70,0,0" VerticalAlignment="Top" Width="100"/>
+
+        <!-- Кнопка для обчислення -->
+        <Button Content="Обчислити" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" Width="120" Click="CalculateButton_Click"/>
+
+        <!-- Текстовий блок для результатів -->
+        <TextBlock x:Name="ResultTextBlock" HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top" Width="260" TextWrapping="Wrap"/>
+    </Grid>
+</Window>
+
